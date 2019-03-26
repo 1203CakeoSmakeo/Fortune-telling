@@ -1,0 +1,9 @@
+body {
+ background-image: url("https://assets3.thrillist.com/v1/image/2323439/size/sk-2017_04_article_main_mobile.jpg");
+}
+
+#operations button {
+    display: block;
+    width: 2rem;
+    margin: 0.5rem 0;
+}
